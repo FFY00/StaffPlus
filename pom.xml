@@ -11,6 +11,9 @@
 		<url>https://repo.inventivetalent.org/content/groups/public/</url>
 	</repository>
   </repositories>
+  <properties>
+    <project.build.sourceEncoding>ISO-8859-1</project.build.sourceEncoding>
+  </properties>
   <dependencies>
     <dependency>
 	  <groupId>org.inventivetalent</groupId>
