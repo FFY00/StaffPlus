@@ -23,7 +23,7 @@ import org.bukkit.craftbukkit.v1_12_R1.entity.CraftPlayer;
 import org.bukkit.craftbukkit.v1_12_R1.inventory.CraftItemStack;
 import org.bukkit.entity.Player;
 
-public class Protocol_v1_11_R1 implements IProtocol
+public class Protocol_v1_12_R1 implements IProtocol
 {
 	@Override
 	public org.bukkit.inventory.ItemStack addNbtString(org.bukkit.inventory.ItemStack item, String value)
